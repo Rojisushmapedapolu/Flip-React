@@ -1,0 +1,13 @@
+{
+  "products": [
+    {
+      "productId": "qwertyuiop",
+      "title": "asdfghjkl",
+      "brand": "zxcvbnm",
+      "price": "234567890",
+      "description": "1234567890",
+      "thumbnail": "https://m.media-amazon.com/images/I/61l9ppRIiqL._AC_UF1000,1000_QL80_.jpg",
+      "id": 1
+    }
+  ]
+}
